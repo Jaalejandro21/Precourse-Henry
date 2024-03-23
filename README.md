@@ -1,2 +1,2 @@
-# Precourse-Henry
-Este es un repositorio de prueba para el modulo dos del precourse de Henry
+
+este proyecto es una prueba para aprender a como crear un repositorio desde github y como clonarlo a mi dispositivo local
